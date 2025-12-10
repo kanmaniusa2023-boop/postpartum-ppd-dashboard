@@ -19,3 +19,4 @@ email-validator
 protobuf
 statsmodels
 openai>=1.0.0
+groq>=0.4.0
